@@ -34,10 +34,9 @@ Joined by Toad, the trio embark on a sprawling adventure across scorching desert
 # Download
 1. Go to the 'Releases' page
 2. Look for the latest version
-3. Download the .zip
+3. Download the .zip file
 4. Extract and run
-   
-Enjoy!
+5. Enjoy!
 
 Don't fret abut the 7z either just wait and play! Additionally, if you already own the game and don't want to redownload the entire game, download the PBEX file and replace it with the previous file.
 
@@ -55,6 +54,9 @@ I really wanted to rewrite the story and do the movie again so to speak, giving 
 **How long did the project take to make?** <br>
 Around two years ago, I initially started this game in October of 2023 as a proof of concept/feasibility test for the engine before it launched into full production in February 2024. This was a solo project done by mostly me, alongside 3 Pixel artists and two artists who made key art for the game!
 
+**Android, Mac etc port** <br>
+No, at least for Android, the game at the moment is incompatible with Winlator and doesn't have an version specifically exported to Mac, however you can try Wine to see if the game works on MacOs
+
 **What Post Launch Content will be available?** <br>
 Mainly a plethora of new modes upon completing the game, modes such as Time Trials, Coin Rush, Mirror Mode and Tour Mode will be added, alongside the Special world, New Game Plus with harder levels, Movie Accurate Mode which goes solely removes any new story content added to the game and Marathon Mode, which is essentially a campaign select for each character featuring new levels and cutscenes. Along with that new Challenge Mode stages with new objectives and new Multiplayer levels. Some of these were cut due to launch however will be added back with possible monthly content updates starting in January. No additional story content is planned for the game, since what I had planned is too large in scope for DLC. Post Launch content will be available to download with every patch the game receives on Itch.io and Game Jolt!
 
@@ -63,8 +65,6 @@ To be honest it really depends on a lot of factors when it comes to a sequel, si
 
 **Will the game be struck down by the Nintendo Ninjas?** <br>
 Very unlikely, Nintendo seemingly only goes for major fan projects that conflict with current releases such as remakes or similar games in concept. However, there is a very slight chance the game could be due to use of assets from the movie such as Concept Art and Music. However I'd say it's unlikely overall.
-
-
 
 # Known Issues
 - Bowser is a lil buggy at the moment, changing his sprite in cutscenes looks a lil weird and his hitbox is slightly too big
@@ -79,3 +79,7 @@ Very unlikely, Nintendo seemingly only goes for major fan projects that conflict
 - https://speedymcfly.itch.io/thesupermariobrosmovievideogame
 - https://gamejolt.com/games/thesupermariobrosmovievideogame/1016735
 - https://sonicfangameshq.com/forums/showcase/the-super-mario-bros-movie-demastered.2455/
+
+<p align="center">
+<img width="1280" height="720" alt="Thumbnail" src="https://github.com/user-attachments/assets/8558c0e4-987c-42a6-9477-976d7222a6ad" />
+</p>

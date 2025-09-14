@@ -57,6 +57,9 @@ Around two years ago, I initially started this game in October of 2023 as a proo
 **Android, Mac etc port** <br>
 No, at least for Android, the game at the moment is incompatible with Winlator and doesn't have an version specifically exported to Mac, however you can try Wine to see if the game works on MacOs
 
+**Multiplayer for the whole game?** <br>
+No, the game is unfeasible with whole game multiplayer which was planned, but ended up being cut.I prefer it as a side activity anyway and depending on the reception, will be recceiving more levels and updates.
+
 **What Post Launch Content will be available?** <br>
 Mainly a plethora of new modes upon completing the game, modes such as Time Trials, Coin Rush, Mirror Mode and Tour Mode will be added, alongside the Special world, New Game Plus with harder levels, Movie Accurate Mode which goes solely removes any new story content added to the game and Marathon Mode, which is essentially a campaign select for each character featuring new levels and cutscenes. Along with that new Challenge Mode stages with new objectives and new Multiplayer levels. Some of these were cut due to launch however will be added back with possible monthly content updates starting in January. No additional story content is planned for the game, since what I had planned is too large in scope for DLC. Post Launch content will be available to download with every patch the game receives on Itch.io and Game Jolt!
 

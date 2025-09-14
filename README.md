@@ -81,5 +81,5 @@ Very unlikely, Nintendo seemingly only goes for major fan projects that conflict
 - https://sonicfangameshq.com/forums/showcase/the-super-mario-bros-movie-demastered.2455/
 
 <p align="center">
-<img width="1280" height="720" alt="Thumbnail" src="https://github.com/user-attachments/assets/8558c0e4-987c-42a6-9477-976d7222a6ad" />
+<img width="1277" height="717" alt="Thumbnail" src="https://github.com/user-attachments/assets/d5fd8be1-2f25-4a16-8043-f2412a082852" />
 </p>

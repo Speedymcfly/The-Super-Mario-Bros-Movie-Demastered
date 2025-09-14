@@ -76,4 +76,6 @@ Very unlikely, Nintendo seemingly only goes for major fan projects that conflict
 - Piranha Plants will come up to the pipe even if your standing on it, Game has been designed around this bug
 
 # Mirrors
-<iframe frameborder="0" src="https://itch.io/embed/2339694" width="552" height="167"><a href="https://speedymcfly.itch.io/thesupermariobrosmovievideogame">The Super Mario Bros Movie Demastered by Speedymcfly</a></iframe>
+- https://speedymcfly.itch.io/thesupermariobrosmovievideogame
+- https://gamejolt.com/games/thesupermariobrosmovievideogame/1016735
+- https://sonicfangameshq.com/forums/showcase/the-super-mario-bros-movie-demastered.2455/

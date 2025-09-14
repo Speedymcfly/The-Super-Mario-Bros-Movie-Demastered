@@ -20,7 +20,7 @@ Mario meets with the Princess named Peach Toadstool who reveals that Luigi has e
 
 Riddled with guilt, Mario wants Peach to take him to save Luigi, but Peach, thinking the Plumber is unfit for venturing out and possibly getting himself hurt, declines. But after a lengthy training session and seeing potential in the plucky plumber, she accepts. They soon strike a deal where Mario would help Peach with her Bowser problem and Peach would help Mario find Luigi.
 
-Joined by Toad, the trio embark on a sprawling adventure across scorching deserts and lush beaches of Sarasaland, tranquil Fire Flower meadows, the food dinosaur-filled tropical landscape Yoshi’s Island, a bustling jungle metropolis ruled by the crankiest ape alive, and even the glittering Roads of Rainbows. With the assistance of Princess Peach and budding friendship with Toad, Mario taps into his own power as they resolve to find the Power Stars, create a resistance to protect the Mushroom Kingdom, and stop Bowser's plans of world domination. Meanwhile, Luigi, alongside his fellow prisoners must hatch a daring escape plan where he must find his true resolve to become the person he and his brother aspires him to be.
+Joined by Toad, the trio embark on a sprawling adventure across scorching deserts and lush beaches of Sarasaland, tranquil Fire Flower meadows, the food dinosaur-filled tropical landscape of Yoshi’s Island, Kongo Bongo's bustling jungle metropolis ruled by the crankiest ape alive, and even the glittering Roads of Rainbows. With the assistance of Princess Peach and budding friendship with Toad, Mario taps into his own power as they resolve to find the Power Stars, create a resistance to protect the Mushroom Kingdom, and stop Bowser's plans of world domination. Meanwhile, Luigi, alongside his fellow prisoners must hatch a daring escape plan where he must find his true resolve to become the person he and his brother aspires him to be.
 
 # Features
 - **Expanded Story**: A fully reimagined version of the movie’s plot, complete with new scenes, dialogue, and characters based on cut content and criticisms of the movie. Meet Princess Daisy, Professor E. Gadd, the Elite Trio, Yoshi, and more. Explore brand-new locations like Sarasaland and Yoshi’s Island and experience an all new original Luigi-focused subplot inside the Darklands and Bowser’s Castle!
@@ -38,7 +38,7 @@ Joined by Toad, the trio embark on a sprawling adventure across scorching desert
 4. Extract and run
 5. Enjoy!
 
-Don't fret abut the 7z either just wait and play! Additionally, if you already own the game and don't want to redownload the entire game, download the PBEX file and replace it with the previous file.
+Don't worry about the 7z either, since it will load and install files in the game just wait and play! Additionally, if you already own the game and don't want to redownload the entire game, download the PBEX file and replace it with the previous file.
 
 # FAQ
 

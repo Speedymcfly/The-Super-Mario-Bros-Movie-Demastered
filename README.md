@@ -54,7 +54,7 @@ I really wanted to rewrite the story and do the movie again so to speak, giving 
 **How long did the project take to make?** <br>
 Around two years ago, I initially started this game in October of 2023 as a proof of concept/feasibility test for the engine before it launched into full production in February 2024. This was a solo project done by mostly me, alongside 3 Pixel artists and two artists who made key art for the game!
 
-**Android, Mac etc port** <br>
+**Android, Mac etc port?** <br>
 No, at least for Android, the game at the moment is incompatible with Winlator and doesn't have an version specifically exported to Mac, however you can try Wine to see if the game works on MacOs
 
 **Multiplayer for the whole game?** <br>

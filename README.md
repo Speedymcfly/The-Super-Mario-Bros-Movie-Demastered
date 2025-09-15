@@ -61,10 +61,10 @@ No, at least for Android, the game at the moment is incompatible with Winlator a
 No, the game is unfeasible with whole game multiplayer which was planned, but ended up being cut.I prefer it as a side activity anyway and depending on the reception, will be recceiving more levels and updates.
 
 **What Post Launch Content will be available?** <br>
-Mainly a plethora of new modes upon completing the game, modes such as Time Trials, Coin Rush, Mirror Mode and Tour Mode will be added, alongside the Special world, New Game Plus with harder levels, Movie Accurate Mode which goes solely removes any new story content added to the game and Marathon Mode, which is essentially a campaign select for each character featuring new levels and cutscenes. Along with that new Challenge Mode stages with new objectives and new Multiplayer levels. Some of these were cut due to launch however will be added back with possible monthly content updates starting in January. No additional story content is planned for the game, since what I had planned is too large in scope for DLC. Post Launch content will be available to download with every patch the game receives on Itch.io and Game Jolt!
+Mainly a plethora of new modes upon completing the game, modes such as Time Trials and Coin Rush will be added, alongside the Special world, New Game Plus with harder levels, Movie Accurate Mode which goes solely removes any new story content added to the game and Marathon Mode, which is essentially a campaign select for each character featuring new levels and cutscenes. Along with that are new Challenge Mode stages with new objectives and new Multiplayer levels. Some of these were cut due to launch however will be added back with possible monthly content updates starting in January. No additional story content is planned for the game, since what I had planned is too large in scope for DLC. Post Launch content will be available to download with every patch the game receives on Itch.io and Game Jolt!
 
 **The Super Mario Galaxy Movie Demastered?** <br>
-To be honest it really depends on a lot of factors when it comes to a sequel, since I made this game as a fun way to rewrite and adapt the movie into a game. I do have a general interest in making a sequel but I'd also want it to be different enough to justify it's existence and also if the second movie needs another major retooling. One thing I will say is that it definitely won't be as ambitious as this game in terms of content and story. However, in terms of spin-offs, stay tuned.
+To be honest it really depends on a lot of factors when it comes to a sequel, since I made this game as a fun way to rewrite and adapt the movie into a game. If the sequel doesn't have as major story problems as this movie did, I will be less inlined to work on it especially with them going onto Galaxy this soon. I do however have a general interest in making a sequel but I'd also want it to be different enough to justify it's existence. One thing I will say is that it definitely won't be as ambitious as this game in terms of content and story. However, in terms of spin-offs, stay tuned.
 
 **Will the game be struck down by the Nintendo Ninjas?** <br>
 Very unlikely, Nintendo seemingly only goes for major fan projects that conflict with current releases such as remakes or similar games in concept. However, there is a very slight chance the game could be due to use of assets from the movie such as Concept Art and Music. However I'd say it's unlikely overall.
@@ -75,7 +75,7 @@ Very unlikely, Nintendo seemingly only goes for major fan projects that conflict
 - Multiplayer has some crashes relating to platforms when one player is dead
 - Menus might not detect any movement from controllers or with the movement keys, best to use a mouse or click onto the menu to navigate through them
 - Some liquid tilesets may overlap with each other
-- Collecting and throwing items will show the Itemm before hand
+- Collecting and throwing shells will show the Item before hand
 - Piranha Plants will come up to the pipe even if your standing on it, Game has been designed around this bug
 
 # Mirrors

@@ -77,6 +77,7 @@ Very unlikely, Nintendo seemingly only goes for major fan projects that conflict
 - Some liquid tilesets may overlap with each other
 - Collecting and throwing shells will show the Item before hand
 - Piranha Plants will come up to the pipe even if your standing on it, Game has been designed around this bug
+- Not a bug, but some sprites are still placeholders, characters like Mario's family and King Penguin will be replaced with more accurate sprites in future updates
 
 # Mirrors
 - https://speedymcfly.itch.io/thesupermariobrosmovievideogame
